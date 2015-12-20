@@ -1,11 +1,11 @@
 {
-  "name": "http_s",
+  "name": "http-both",
   "version": "0.1.0",
   "description": "Creates a node server that will listen for both http and https requests.",
   "author": "Dylan Piercey <pierceydylan@gmail.com>",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DylanPiercey/http_s"
+    "url": "https://github.com/DylanPiercey/http-both"
   }
 }
